@@ -1,8 +1,9 @@
-#include<iostream>
 
+#include<iostream>
 
 int main(){
 
+    printf("Hello ya!\n");
 
-return 0;
+    return 0;
 }
